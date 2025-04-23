@@ -1,0 +1,8 @@
+: Pick-up \ f Pick-up date | { Drop-off date | { Pick-up time \( Drop-off time
+| 9 Bloomington, IL, United States of ... | | ca Apr 15 i A Apr 16 | | © 1030 am ¥ | © 10:30 am
+
+Add a different drop-off location
+
+: Drop-off
+9 Downtown Chicago, Chicago, Illin...
+
